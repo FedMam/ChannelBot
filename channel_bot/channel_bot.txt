@@ -1,0 +1,7 @@
+Discover interesting projects and people to populate your personal news feed.
+Jump to top to learn everything about Telegram bots »
+Now when we want to send a notification to the user 123
+Use the /newbot command to create a new bot.
+Use the /newbot command to create a new bot.
+The name of your bot is displayed in contact details and elsewhere.
+Generating an authentication tokenBots can ask a user for their location and phone number using special buttons. Note that both phone number and location request buttons will only work in private chats.
